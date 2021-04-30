@@ -5,8 +5,9 @@ Burp suite 插件 实现参数溢出、垃圾数据、字典笛卡尔积
 参数溢出
 ![1](https://user-images.githubusercontent.com/48114638/116669272-f72ac880-a9d0-11eb-9926-288c555c0e38.gif)
 
-修改数据包
+垃圾数据
 ![2](https://user-images.githubusercontent.com/48114638/116669340-0c075c00-a9d1-11eb-953a-83df079a4e86.gif)
+(生成的垃圾数据为键值对类型)
 
 字典笛卡尔积
 ![3](https://user-images.githubusercontent.com/48114638/116669400-1a557800-a9d1-11eb-9512-b133d83a9b7a.gif)
