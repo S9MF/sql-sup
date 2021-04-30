@@ -10,7 +10,8 @@ Burp suite 插件 实现参数溢出、垃圾数据、字典笛卡尔积
 (生成的垃圾数据为键值对类型)
 
 字典笛卡尔积
-![3](https://user-images.githubusercontent.com/48114638/116669400-1a557800-a9d1-11eb-9512-b133d83a9b7a.gif)
+![3](https://user-images.githubusercontent.com/48114638/116676230-5096f580-a9d9-11eb-9a9a-fb787be15f1b.gif)
+
 (第一次使用会在本地生成一个parameter.txt，修改后必须重新启动插件才行。)
 
 # 环境
