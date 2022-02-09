@@ -16,3 +16,13 @@ Burp suite 插件 实现参数溢出、垃圾数据、字典笛卡尔积
 
 # 环境
 java 1.8+
+
+# 参考
+
+https://github.com/bit4woo/burp-api-drops
+
+https://github.com/c0ny1/chunked-coding-converter
+
+https://www.zhihu.com/question/359729378/answer/1027412990
+
+https://lufe1.cn/2018/05/18/Burp%20XXE%20Scanner%20%E6%8F%92%E4%BB%B6/
